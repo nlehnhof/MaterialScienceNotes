@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  22 SEP 2025 22:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  29 SEP 2025 21:16
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1262,14 +1262,14 @@ Package rerunfilecheck Info: File `nlehnhof_lab1.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  45333 strings out of 473523
- 1036128 string characters out of 5714630
- 1568894 words of memory out of 5000000
+ 1036130 string characters out of 5714630
+ 1569894 words of memory out of 5000000
  67709 multiletter control sequences out of 15000+600000
  629525 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  95i,11n,131p,1046b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on nlehnhof_lab1.pdf (2 pages, 177250 bytes).
+Output written on nlehnhof_lab1.pdf (2 pages, 179288 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
