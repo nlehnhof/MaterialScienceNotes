@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  29 SEP 2025 21:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  30 SEP 2025 12:52
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -927,6 +927,13 @@ LaTeX Info: Redefining \cpagerefrange on input line 2370.
 LaTeX Info: Redefining \Cpagerefrange on input line 2370.
 LaTeX Info: Redefining \labelcref on input line 2370.
 LaTeX Info: Redefining \labelcpageref on input line 2370.
+) (C:\Users\nlehn\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count370
+\float@exts=\toks59
+\float@box=\box78
+\@float@everytoks=\toks60
+\@floatcapt=\box79
 ))
 LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 5.
  (C:\Users\nlehn\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtlf.fd
@@ -996,25 +1003,25 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 ) (C:\Users\nlehn\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count370
+\scratchcounter=\count371
 \scratchdimen=\dimen366
-\scratchbox=\box78
-\nofMPsegments=\count371
-\nofMParguments=\count372
-\everyMPshowfont=\toks59
-\MPscratchCnt=\count373
+\scratchbox=\box80
+\nofMPsegments=\count372
+\nofMParguments=\count373
+\everyMPshowfont=\toks61
+\MPscratchCnt=\count374
 \MPscratchDim=\dimen367
-\MPnumerator=\count374
-\makeMPintoPDFobject=\count375
-\everyMPtoPDFconversion=\toks60
+\MPnumerator=\count375
+\makeMPintoPDFobject=\count376
+\everyMPtoPDFconversion=\toks62
 ) (C:\Users\nlehn\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\nlehn\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@mv@tabular=\count376
-\c@mv@boldtabular=\count377
+\c@mv@tabular=\count377
+\c@mv@boldtabular=\count378
 LaTeX Info: Command `\dddot' is already robust on input line 5.
 LaTeX Info: Command `\ddddot' is already robust on input line 5.
 
@@ -1053,6 +1060,7 @@ LaTeX Info: Command `\ddddot' is already robust on input line 5.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1232,46 +1240,113 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 24.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 5.5pt on input line 39.
-<aluminum_plot.png, id=41, 602.25pt x 401.5pt>
-File: aluminum_plot.png Graphic file (type png)
-<use aluminum_plot.png>
-Package pdftex.def Info: aluminum_plot.png  used on input line 53.
-(pdftex.def)             Requested size: 225.4804pt x 150.3232pt.
-<steel_plot.png, id=42, 602.25pt x 401.5pt>
-File: steel_plot.png Graphic file (type png)
-<use steel_plot.png>
-Package pdftex.def Info: steel_plot.png  used on input line 73.
-(pdftex.def)             Requested size: 225.4804pt x 150.3232pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+<alxl.png, id=49, 485.085pt x 276.159pt>
+File: alxl.png Graphic file (type png)
+<use alxl.png>
+Package pdftex.def Info: alxl.png  used on input line 53.
+(pdftex.def)             Requested size: 328.82707pt x 187.20833pt.
 
 
 [1
 
 {C:/Users/nlehn/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}{C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 8.0pt on input line 71.
+<stxl.png, id=66, 448.512pt x 237.177pt>
+File: stxl.png Graphic file (type png)
+<use stxl.png>
+Package pdftex.def Info: stxl.png  used on input line 77.
+(pdftex.def)             Requested size: 328.82707pt x 173.89052pt.
 
-[2 <./aluminum_plot.png> <./steel_plot.png>] (nlehnhof_lab1.aux)
+
+[2 <./alxl.png> <./stxl.png>] (nlehnhof_lab1.bbl
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 1.
+LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 12.
+ (C:\Users\nlehn\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtt.fd
+File: t1ntxtt.fd 2012/04/20 v3.1
+)
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ntxtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+
+Underfull \hbox (badness 1472) in paragraph at lines 11--15
+[]\T1/ntxtlf/m/n/9 (+20) MatWeb, LLC, ``Alu-minum 6061-T6; 6061-T651,'' []$\T1/ntxtt/m/n/9 https : / / asm . matweb . com / search / specificmaterial . asp ?
+ []
+
+)
+
+[3] (nlehnhof_lab1.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `nlehnhof_lab1.out' has not changed.
-(rerunfilecheck)             Checksum: 882D0773152B0955C7DF304B46E69AF8;171.
+(rerunfilecheck)             Checksum: 0766E4CB4DEAC325CA802D550DA467C1;418.
  ) 
 Here is how much of TeX's memory you used:
- 45333 strings out of 473523
- 1036130 string characters out of 5714630
- 1569894 words of memory out of 5000000
- 67709 multiletter control sequences out of 15000+600000
- 629525 words of font info for 152 fonts, out of 8000000 for 9000
+ 45522 strings out of 473523
+ 1039506 string characters out of 5714630
+ 1560894 words of memory out of 5000000
+ 67865 multiletter control sequences out of 15000+600000
+ 649302 words of font info for 186 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,11n,131p,1046b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on nlehnhof_lab1.pdf (2 pages, 179288 bytes).
+ 95i,10n,131p,1046b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/t1xtt.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
+Output written on nlehnhof_lab1.pdf (3 pages, 276254 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 31879 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 38551 words of extra memory for PDF output out of 42996 (max. 10000000)
 
